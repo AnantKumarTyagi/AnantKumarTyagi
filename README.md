@@ -85,7 +85,7 @@
   <tr>
     <td align="center">
       <!-- General Stats (Stars, Commits, PRs) -->
-      <img src="https://github-readme-stats.vercel.app/api?username=anantkumartyagi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Anant's GitHub Stats" />
+      <img src="https://metrics.lecoq.io/anantkumartyagi" alt="Anant's GitHub Metrics" />
     </td>
     <td align="center">
       <!-- Top Languages -->
@@ -116,18 +116,17 @@
 
 ### 🚀 Featured Projects
 
-*(Replace `repo-name-1` and `repo-name-2` with the exact names of repositories you want to showcase)*
 
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/anantkumartyagi/repo-name-1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anantkumartyagi&repo=repo-name-1&theme=radical" alt="Project 1" />
+      <a href="https://github.com/anantkumartyagi/Real-time-chat_app-with-E2E-Encryption">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anantkumartyagi&Real-time-chat_app-with-E2E-Encryption&theme=radical" alt="Project 1" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/anantkumartyagi/repo-name-2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anantkumartyagi&repo=repo-name-2&theme=radical" alt="Project 2" />
+      <a href="https://github.com/anantkumartyagi/FullStack_Finance_tracker">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anantkumartyagi&FullStack_Finance_tracker&theme=radical" alt="Project 2" />
       </a>
     </td>
   </tr>
