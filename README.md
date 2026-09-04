@@ -84,12 +84,10 @@
 <table align="center">
   <tr>
     <td align="center">
-      <!-- General Stats (Stars, Commits, PRs) -->
-      <img src="https://metrics.lecoq.io/anantkumartyagi" alt="Anant's GitHub Metrics" />
+      <img src="https://github-stats-extended.vercel.app/api?username=anantkumartyagi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Anant's GitHub Stats" />
     </td>
     <td align="center">
-      <!-- Top Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anantkumartyagi&layout=compact&theme=radical" alt="Top Languages" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anantkumartyagi&layout=compact&theme=radical" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -108,7 +106,7 @@
 ### 📈 Contribution Activity Graph
 
 <p align="center">
-  <!-- Commits history graph -->
+  <!-- Note: The activity graph uses a separate tool. Deploying your own Vercel instance is still best if this stays paused -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anantkumartyagi&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
@@ -116,17 +114,17 @@
 
 ### 🚀 Featured Projects
 
-
 <table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/anantkumartyagi/Real-time-chat_app-with-E2E-Encryption">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anantkumartyagi&Real-time-chat_app-with-E2E-Encryption&theme=radical" alt="Project 1" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=anantkumartyagi&repo=Real-time-chat_app-with-E2E-Encryption&theme=radical" alt="Chat App" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/anantkumartyagi/FullStack_Finance_tracker">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anantkumartyagi&FullStack_Finance_tracker&theme=radical" alt="Project 2" />
+        <!-- New Domain Applied for Pinned Repos -->
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=anantkumartyagi&repo=FullStack_Finance_tracker&theme=radical" alt="Finance Tracker" />
       </a>
     </td>
   </tr>
