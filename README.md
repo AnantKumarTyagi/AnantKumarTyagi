@@ -107,10 +107,10 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-stats-extended.vercel.app/api?username=anantkumartyagi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Anant's GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=anantkumartyagi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true&hide=stars" alt="Anant's GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anantkumartyagi&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anantkumartyagi&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Languages" />
     </td>
   </tr>
 </table>
