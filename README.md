@@ -46,38 +46,61 @@
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Tech Arsenal
 
-<p align="left"> 
-  <!-- Keeping all your original skills but wrapping them nicely -->
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-</p>
+<div align="center">
+
+### 💎 Core Technologies
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" /><br>
+<b>React</b>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" /><br>
+<b>Next.js</b>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" /><br>
+<b>Node.js</b>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" /><br>
+<b>Express</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" /><br>
+<b>MongoDB</b>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" /><br>
+<b>Tailwind</b>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=typescript" width="65" height="65" alt="TypeScript" /><br>
+<b>TypeScript</b>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" /><br>
+<b>Docker</b>
+</td>
+</tr>
+</table>
 
 ---
+
+### 🎯 Languages & Tools
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,c,html,css,git,github,vscode,postman,vercel,render" />
+
+</div>
+
+---
+
 
 ### 📊 GitHub Analytics
 
@@ -114,18 +137,51 @@
 
 ### 🚀 Featured Projects
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center">
-      <a href="https://github.com/anantkumartyagi/Real-time-chat_app-with-E2E-Encryption">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=anantkumartyagi&repo=Real-time-chat_app-with-E2E-Encryption&theme=radical" alt="Chat App" />
+    <td width="50%" valign="top">
+      <h3>🔒 E2EE Chat Application</h3>
+      <p>A real-time messaging platform with end to end encryption utilizing the Web Crypto API and Socket.io.</p>
+     <h4>✨ Key Features:</h4>
+<ul>
+  <li><b>End-to-End Text Encryption</b></li>
+  <li><b>E2EE Image Sharing</b></li>
+  <li><b>PIN-encrypted key vault</b></li>
+  <li><b>Multi-Device Support</b></li>
+  <li><b>Real-Time Communication</b></li>
+  <li><b>Zero-Knowledge Backend</b></li>
+  <li><b>Secure Authentication</b></li>
+</ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💰 Finance Tracker</h3>
+      <p>A full-stack application featuring transaction categorization, income and expense data visualization with Recharts, and automated Excel data export.</p>
+      <h4>✨ Key Features:</h4>
+      <ul>
+        <li><b>Secure User Authentication</b></li>
+        <li><b>Interactive Dashboard</b></li>
+        <li><b>Income & Expense Tracking</b></li>
+        <li><b>Data Visualization</b></li>
+        <li><b>Profile Management</b></li>
+        <li><b>Responsive Design</b></li>
+      </ul>
+    </td>
+  </tr>
+  <!-- ROW 2: Buttons -->
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://nexchat-035o.onrender.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Live%20Demo-0e75b6?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo" />
+      </a>
+      <a href="https://github.com/anantkumartyagi/Real-time-chat_app-with-E2E-Encryption" target="_blank">
+        <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/anantkumartyagi/FullStack_Finance_tracker">
-        <!-- New Domain Applied for Pinned Repos -->
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=anantkumartyagi&repo=FullStack_Finance_tracker&theme=radical" alt="Finance Tracker" />
+    <td width="50%" valign="top">
+      <a href="https://github.com/anantkumartyagi/FullStack_Finance_tracker" target="_blank">
+        <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
       </a>
     </td>
   </tr>
+ 
 </table>
