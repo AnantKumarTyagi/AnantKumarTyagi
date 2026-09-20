@@ -126,11 +126,10 @@
   </tr>
 </table>
 
-### 📈 Contribution Activity Graph
+### 📈 Contribution Activity
 
 <p align="center">
-  <!-- Note: The activity graph uses a separate tool. Deploying your own Vercel instance is still best if this stays paused -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anantkumartyagi&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/f85149/anantkumartyagi" alt="Anant's Contribution Chart" />
 </p>
 
 ---
